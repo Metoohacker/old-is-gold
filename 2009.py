@@ -113,7 +113,7 @@ if len(sys.argv) == 2:
 	if sys.argv[1] == "--info":
 		print("   _________________        \n  /  ___/\_   ___/        \n /   \  __ |    __)          \n \    \  \|     \ \033[0;96mGALAXY\033[0;97m        \n  \__  /\___  /__\033[0;96mFACEBOOK\033[0;97m_\n         \/     \/_____/____/")
 		print("\n [*] Author    :  "
-		print(" [*] Team      :  \n")
+		print(" [*] Team      :  Metoo")
 		print(" [ Sosial Medi  ] \n")
 		print(" [*] Facebook  : https://facebook.com/ ")
 		print(" [*] Instagram : https://instagram.com/ ")
